@@ -1,0 +1,15 @@
+<table class="table table-hover">
+    <tr>
+      <th>Name</th>
+      <th>Description</th>
+      <th>Price</th>
+      <th>Delete</th>
+    </tr>
+    <tr *ngFor="let shop of service.list">
+      <td (click)="populateForm(shop)">{{shop.Name}}</td>
+      <td (click)="populateForm(shop)">{{shop.Description}}</td>
+      <td (click)="populateForm(shop)">{{shop.Price}}</td>
+      
+      <td><button (click)="onDelete(shop.Name)" class="btn btn-sm btn-outline-danger">X</button></td>
+    </tr>
+  </table>
