@@ -1,5 +1,6 @@
 # shopApp
-Insert Update and Delete Operation Methods are implemented in Web API using SQL Server, Visual Studio and Visual studio code. API methods have called from Shop-App angular project.
+Insert Update and Delete Operation Methods are implemented in Web API using SQL Server, Visual Studio and Visual studio code.
+API methods have called from Shop-App angular project.
 Technologies Used: .NET and Angular
 Angular app run command: ng serve
 
