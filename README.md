@@ -26,7 +26,8 @@ Run .NET Application first so that API call can takes place.
 Now Run Angular application by following steps: 
  1. Go to Visual studio code and make sure you are inside the project location.
  2. Go to inside your project in command palette through command: cd projectname
- 3. Run the project using command: ng serve
+ 3. Run the project using command: ng serve.
+ 
 Now go to Browser and type "http://localhost:4200/". Angular UI will be shown.
 
 
