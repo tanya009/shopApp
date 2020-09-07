@@ -23,7 +23,7 @@ MAKE SURE DATABASE IS CONNECTED WITH VISUAL STUDIO.
 RUN THE APPLICATION:
 
 Run .NET Application first so that API call can takes place.
-Run Angular application: 
+Now Run Angular application by following steps: 
  1. Go to Visual studio code and make sure you are inside the project location.
  2. Go to inside your project in command palette through command: cd projectname
  3. Run the project using command: ng serve
